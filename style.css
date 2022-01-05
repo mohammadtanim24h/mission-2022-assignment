@@ -3,6 +3,8 @@
     margin: 0;
 }
 
+/* Section 1 */
+
 .flex-container {
     display: flex;
     padding: 7%;
@@ -50,4 +52,46 @@
 
 .tip-text {
     margin-top: 50px;
+}
+
+/* Section 2 starts from here */
+
+.section2-header {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 70px;
+}
+
+.mission-color {
+    color: #303952;
+}
+
+.year-color {
+    color: #5f27cd;
+}
+
+.illustrated-img {
+    display: flex;
+}
+
+.illust-area {
+    width: 25%;
+    height: 200px;
+    margin: auto;
+    margin-left: 8%;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.illust-area img {
+    width: 40%;
+}
+
+#illustration-1 {
+    background-color: #d4cdfac4;
+}
+
+#illustration-2 {
+    background-color: #dff9fbd7;
 }
