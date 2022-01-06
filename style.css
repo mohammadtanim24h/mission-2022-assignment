@@ -123,13 +123,13 @@
     width: 75%;
 }
 
-.goal-header {
+.coding-header {
     margin-top: 30px;
     font-size: 50px;
     margin-bottom: 20px;
 }
 
-.goal-p {
+.coding-p {
     font-size: 25px;
     margin-bottom: 50px;
 }
@@ -180,11 +180,11 @@
     border-radius: 6px;
 }
 
-/* Section 5 */
+/* Form Area */
 
 .form-area {
     /* text-align: center; */
-    width: 60%;
+    width: 50%;
     margin: auto;
     padding: 20px;
     margin-bottom: 50px;
@@ -197,11 +197,11 @@
     margin-bottom: 15px;
 }
 
-.form-heading {
+.form-heading-color {
     color: #7338A9;
 }
 
-.form-txt {
+.form-label {
     font-size: 15px;
     font-weight: bold;
 }
@@ -209,6 +209,15 @@
 .txt-area {
     font-size: 15px;
     width: 100%;
+}
+
+.submit-btn {
+    font-size: 15px;
+    padding: 15px 40px;
+    background-color: #754b9c;
+    color: white;
+    margin-top: 8px;
+    border-radius: 5px;
 }
 
 /* Footer */
