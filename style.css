@@ -183,17 +183,16 @@
 /* Form Area */
 
 .form-area {
-    /* text-align: center; */
     width: 50%;
     margin: auto;
     padding: 20px;
     margin-bottom: 50px;
-    border: 15px solid #7338A9;
+    border: 5px solid #7338A9;
     border-radius: 10px;
 }
 
 .form-area h1 {
-    font-size: 50px;
+    font-size: 40px;
     margin-bottom: 15px;
 }
 
@@ -213,7 +212,7 @@
 
 .submit-btn {
     font-size: 15px;
-    padding: 15px 40px;
+    padding: 10px 30px;
     background-color: #7338A9;
     color: white;
     margin-top: 8px;
