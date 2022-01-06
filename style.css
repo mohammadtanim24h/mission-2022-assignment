@@ -63,35 +63,84 @@
     margin-bottom: 70px;
 }
 
-.mission-color {
-    color: #303952;
-}
-
 .year-color {
     color: #5f27cd;
 }
 
 .illustrated-img {
     display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
 }
 
 .illust-area {
-    width: 25%;
-    height: 200px;
-    margin: auto;
-    margin-left: 8%;
+    width: 300px;
+    height: 340px;
+    margin-left: 30px;
     padding: 50px;
     border-radius: 20px;
 }
 
 .illust-area img {
-    width: 40%;
+    width: 55%;
 }
 
 #illustration-1 {
-    background-color: #d4cdfac4;
+    background-color: #f7cbf19a;
 }
 
 #illustration-2 {
-    background-color: #dff9fbd7;
+    background-color: #c8d6e5a9;
 }
+
+#illustration-3 {
+    background-color: #fab6b696;
+}
+
+.sec2-header {
+    font-size: 30px;
+    margin-top: 15px;
+}
+
+.sec2-p {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+/* Start of section 3 */
+
+.coding-container {
+    display: flex;
+    justify-content: center;
+}
+
+.coding {
+    width: 33%;
+}
+
+.coding img {
+    width: 75%;
+}
+
+.goal-header {
+    margin-top: 30px;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.goal-p {
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+.link-button-2 {
+    text-decoration: none;
+    background-color: #7338A9;
+    padding: 17px 50px;
+    color: #fff;
+    font-size: 17px;
+    border-radius: 6px;
+}
+
+/* Section 4 starts from here */
+
