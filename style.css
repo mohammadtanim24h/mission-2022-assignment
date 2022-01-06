@@ -97,12 +97,12 @@
     background-color: #fab6b696;
 }
 
-.sec2-header {
+.info-header {
     font-size: 30px;
     margin-top: 15px;
 }
 
-.sec2-p {
+.info-p {
     margin-top: 20px;
     font-size: 20px;
 }
@@ -148,6 +148,7 @@
 .project-container {
     display: flex;
     justify-content: center;
+    margin-bottom: 80px;
 }
 
 .project {
@@ -181,6 +182,35 @@
 
 /* Section 5 */
 
+.form-area {
+    /* text-align: center; */
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 50px;
+    border: 15px solid #7338A9;
+    border-radius: 10px;
+}
+
+.form-area h1 {
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+
+.form-heading {
+    color: #7338A9;
+}
+
+.form-txt {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.txt-area {
+    font-size: 15px;
+    width: 100%;
+}
+
 /* Footer */
 
 footer {
@@ -197,7 +227,7 @@ footer h1 {
 }
 
 .footer-year {
-    color: #5509f8;
+    color: #7617cf;
 }
 
 footer p {
