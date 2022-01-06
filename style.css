@@ -54,7 +54,7 @@
     margin-top: 50px;
 }
 
-/* Section 2 starts from here */
+/* Section 2 */
 
 .section2-header {
     text-align: center;
@@ -107,11 +107,12 @@
     font-size: 20px;
 }
 
-/* Start of section 3 */
+/* Section 3 */
 
 .coding-container {
     display: flex;
     justify-content: center;
+    margin-bottom: 150px;
 }
 
 .coding {
@@ -142,5 +143,67 @@
     border-radius: 6px;
 }
 
-/* Section 4 starts from here */
+/* Section 4 */
+
+.project-container {
+    display: flex;
+    justify-content: center;
+}
+
+.project {
+    width: 33%;
+    padding-left: 5%;
+}
+
+.project img {
+    width: 75%;
+}
+
+.project-header {
+    margin-top: 30px;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.project-p {
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+.link-button-3 {
+    text-decoration: none;
+    background-color: #7338A9;
+    padding: 17px 50px;
+    color: #fff;
+    font-size: 17px;
+    border-radius: 6px;
+}
+
+/* Section 5 */
+
+/* Footer */
+
+footer {
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color: white;
+}
+
+footer h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+.footer-year {
+    color: #5509f8;
+}
+
+footer p {
+    text-align: center;
+    margin-top: 25px;
+    color: rgb(177, 177, 177);
+}
+
 
